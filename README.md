@@ -11,3 +11,4 @@ non-blocking sockets (asyncronous)\
 SSL socket encryption or RSA\
 chat commands\
 chat passwords
+A GUI
