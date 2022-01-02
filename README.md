@@ -10,5 +10,5 @@ Future features:\
 non-blocking sockets (asyncronous)\
 SSL socket encryption or RSA\
 chat commands\
-chat passwords
+chat passwords\
 A GUI
