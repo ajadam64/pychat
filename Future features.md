@@ -1,4 +1,4 @@
-# Development branch for pychat
+# Future features for pychat
 
 Future features:\
 non-blocking sockets (asyncronous)\
